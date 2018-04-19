@@ -31,3 +31,5 @@
 * permissioncontain 保存全部的所需的参数
 * PermissionComponent 是暴露给外层使用的工具累
 * PermissinManage 是具体的业务实现类
+
+这个例子里面，我只是实现了 AndPermission 的集成，RxPermission 有兴趣的自己去搞搞，原理都是一样的
